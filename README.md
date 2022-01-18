@@ -1,5 +1,5 @@
 # About this project
-Genshin Damage Calculator is a Web API created in the ASP.NET framework for Genshin Impact.As this is a tool to cater to every character in the game, it is difficult to develop all characters at once. Currently the only data supported are character, ability and scaling information with the only completed characters being Amber, Barbara, Bennett and Beidou. The database is written in PostgreSQL. The skeleton data for all other characters exist however, and will be completed with each addition to the API. 
+Genshin Damage Calculator is a Web API created in the ASP.NET framework for Genshin Impact. As this is a tool to cater to every character in the game, it is difficult to develop all characters at once. Currently the only data supported are character, ability and scaling information with the only completed characters being Amber, Barbara, Bennett and Beidou. The database is written in PostgreSQL. The skeleton data for all other characters exist however, and will be completed with each addition to the API. 
 
 This API is intended to be used with the Genshin Impact Calculator which can be found [here](https://github.com/RameezHaniff/Genshin-Impact-Calculator.git).
 
